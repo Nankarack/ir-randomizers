@@ -1,0 +1,1 @@
+FROM webis/tira-ir-datasets-starter:0.0.47
