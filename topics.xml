@@ -1,18 +1,18 @@
 <topics>
-  <topic number="1">
-    <title></title>
-    <description></description>
-    <narrative></narrative>
+  <topic number = "1">
+    <title>Information Retrieval with algorithms</title>
+    <description>Using algorithms for effective Information Retrieval</description>
+    <narrative>Retrieve documents relevant to the query terms "information retrieval" and "algorithms"</narrative>
   </topic>
   <topic number="2">
-    <title></title>
-    <description></description>
-    <narrative></narrative>
+    <title>misspellings in queries</title>
+    <description>Which documents cover query spelling autocorrection?</description>
+    <narrative>Relevant Information Retrieval documents cover the topic of misspellings in search engine queries and how to automatically correct them. Documents containing only the words "queries" or "in" are not relevant.</narrative>
   </topic>
   <topic number="3">
-    <title></title>
-    <description></description>
-    <narrative></narrative>
+    <title>information in different language</title>
+    <description>Which papers cover Cross-language information retrieval</description>
+    <narrative>Relevant papers cover concepts, that fall under the category CLIR. Papers on language or information on their own or in another context are not relevant.</narrative>
   </topic>
   <topic number="4">
     <title></title>
