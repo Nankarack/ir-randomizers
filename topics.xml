@@ -19,9 +19,9 @@
     <description>Which papers cover the handling of abbreviations in queries?</description>
     <narrative>Relevant papers cover concepts, that deal with the occurrence of abbreviations in queries. Papers on abbreviations in general or on how to deal with abbreviations in documents are not relevant</narrative>
   </topic>
-    <topoic number="5">
+  <topic number="5">
     <title>lemmatization algorithms</title>
-    <discription>Which papers cover lemmatization algorithms?</discription>
+    <description>Which papers cover lemmatization algorithms?</description>
     <narrative>Relevant IR documents cover the topic of lemmatization algorithms. Papers on the basic funktion of lemmatization algorithms and their integration into search engines</narrative>
   </topic>
 </topics>
