@@ -15,13 +15,13 @@
     <narrative>Relevant papers cover concepts, that fall under the category CLIR. Papers on language or information on their own or in another context are not relevant.</narrative>
   </topic>
   <topic number="4">
-    <title></title>
-    <description></description>
-    <narrative></narrative>
+    <title>Abbreviations in queries</title>
+    <description>Which papers cover the handling of abbreviations in queries?</description>
+    <narrative>Relevant papers cover concepts, that deal with the occurrence of abbreviations in queries. Papers on abbreviations in general or on how to deal with abbreviations in documents are not relevant</narrative>
   </topic>
-  <topic number="5">
-    <title></title>
-    <description></description>
-    <narrative></narrative>
+    <topoic number="5">
+    <title>lemmatization algorithms</title>
+    <discription>Which papers cover lemmatization algorithms?</discription>
+    <narrative>Relevant IR documents cover the topic of lemmatization algorithms. Papers on the basic funktion of lemmatization algorithms and their integration into search engines</narrative>
   </topic>
 </topics>
