@@ -1,4 +1,4 @@
-FROM webis/tira-ir-datasets-starter:0.0.47
+FROM webis/tira-ir-datasets-starter:0.0.54
 
 # add jupyter so that we can run a notebook directly in the container
 RUN apk add libffi-dev && pip3 install jupyter
